@@ -6,7 +6,7 @@ I´m primarly interested in **front-end development**.
 
 I'm interested by design, UI/UIX desing and programmig websites.
 
-Outside of work, I'm interested in creation content about tech, pc and art in YouTube, Tiktok, Instagram {I am new at thi}. I love to play videogames
+Outside of work, I'm interested in creation content about tech, pc and art in YouTube, Tiktok, Instagram {I am new at this}. I love to play videogames
 
 
 ### Let's connect!
