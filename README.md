@@ -49,8 +49,8 @@ I consider myself a self-taught, consistent, and passionate individual about tec
 
 #### 🛡️ CyberSecurity
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-Pentesting-0A66C2?logo=kalilinux&logoColor=white&style=for-the-badge)
-![CTF](https://img.shields.io/badge/CTF-Player-0A66C2?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux--00001A?logo=kalilinux&logoColor=white&style=for-the-badge)
+![CTF](https://img.shields.io/badge/Player-CTF-1E90FF?style=for-the-badge&logo=hackthebox&logoColor=white)
 
 #### 🧰 Toolkit  
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
