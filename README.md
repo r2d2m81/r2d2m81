@@ -145,7 +145,7 @@ I consider myself a self-taught, consistent, and passionate individual about tec
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
     </foreignObject>
 </svg>
-
+      
 ---
 ### Let’s Connect!
 
