@@ -15,7 +15,7 @@ I consider myself a self-taught, consistent, and passionate individual about tec
 
 ---
 
-### ⚙️ Technologies I Work With
+### Technologies
 
 #### 💻 Programming Languages  
 ![C/C++](https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=cplusplus)
@@ -54,16 +54,6 @@ I consider myself a self-taught, consistent, and passionate individual about tec
 
 #### 🧰 Toolkit  
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
-
----
-
-### 🔭 What I'm Focused On
-
-- Building *modular UI components* with maintainable and testable code
-- Implementing *design systems* with consistent UI/UX
-- Collaborating on *cloud-integrated features* and real-time systems
-- Optimizing for *performance, accessibility*, and scalability
-- Writing *unit tests and UI documentation* with visual tools
 
 ---
 
