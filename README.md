@@ -56,8 +56,8 @@ I consider myself a self-taught, consistent, and passionate individual about tec
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
 
 ---
-<p aling=center>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r2d2m81&size_weight=0.5&count_weight=0.5)"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USER&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&border_radius=10" />
 </p>
 ---
 ### Let’s Connect!
