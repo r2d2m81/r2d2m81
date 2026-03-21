@@ -10,10 +10,9 @@
 ### 📋 About Me
 
 I’m a Engineer on Comunication and Electronics with a strong interest in cybersecurity and web development. I have actively participated in CTF (Capture The Flag) competitions, where I have developed skills in vulnerability analysis, problem-solving, and critical thinking under pressure.
-
 Additionally, I have basic knowledge of web programming, working with technologies such as HTML, CSS, and JavaScript, which allows me to understand both frontend logic and fundamental aspects of web application security.
-
 I consider myself a self-taught, consistent, and passionate individual about technology, always seeking new challenges that allow me to continue growing in the fields of cybersecurity and software development.
+
 ---
 
 ### ⚙️ Technologies I Work With
@@ -71,6 +70,6 @@ I consider myself a self-taught, consistent, and passionate individual about tec
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=r2d2m81&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=r2d2m81&show_icons=true&theme=tokyonight" height="160"/>
   <img src="https://streak-stats.demolab.com?user=r2d2m81&theme=radical" height="160"/>
 </p>
