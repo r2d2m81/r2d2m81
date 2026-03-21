@@ -61,7 +61,7 @@ I consider myself a self-taught, consistent, and passionate individual about tec
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=r2d2m81&show_icons=true&theme=nightowl" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=r2d2m81&theme=nightowl" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=r2d2m81&show_icons=true&theme=nightowl&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=r2d2m81&theme=nightowl&hide_border=true" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r2d2m81&layout=compact&bg_color=011627&title_color=82aaff&text_color=c792ea&hide_border=true&border_radius=12" />
 </p>
