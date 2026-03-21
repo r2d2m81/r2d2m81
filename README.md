@@ -1,4 +1,4 @@
-<h1>## Hello there 👋 I'm Arthur</h1>
+<h1>Hello there 👋 I'm Arthur</h1>
 
 <p align="center">
   💻 Frontend Software Engineer | UX/UI<br/>
