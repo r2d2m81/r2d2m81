@@ -57,7 +57,7 @@ I consider myself a self-taught, consistent, and passionate individual about tec
 
 ---
 <p aling=center>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r2d2m81&size_weight=0.5&count_weight=0.5)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r2d2m81&size_weight=0.5&count_weight=0.5)"/>
 </p>
 ---
 ### Let’s Connect!
