@@ -57,7 +57,7 @@ I consider myself a self-taught, consistent, and passionate individual about tec
 
 ---
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USER&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&border_radius=10" />
+  <img src="https://github-readme-stats.vercel.app/api?username=r2d2m81&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&border_radius=10" />
 </p>
 ---
 ### Let’s Connect!
