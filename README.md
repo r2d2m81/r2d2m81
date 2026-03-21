@@ -54,10 +54,13 @@ I consider myself a self-taught, consistent, and passionate individual about tec
 
 #### 🧰 Toolkit  
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
 ---
+
 #### Let’s Connect!
 - [💼 LinkedIn](https://www.linkedin.com/in/mimiart/)
 - 📧 artmirmij@gmail.com
+
 ---
 
 <p align="center">
