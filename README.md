@@ -47,6 +47,11 @@ I consider myself a self-taught, consistent, and passionate individual about tec
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-deb975?style=for-the-badge&logo=google-cloud&logoColor=white)
 
+#### 🛡️ CyberSecurity
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-Pentesting-557C94?logo=kalilinux&logoColor=white&style=for-the-badge)
+![CTF](https://img.shields.io/badge/CTF-Player-red?style=for-the-badge&logo=hackthebox&logoColor=white)
+
 #### 🧰 Toolkit  
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
 
