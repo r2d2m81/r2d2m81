@@ -53,22 +53,15 @@ I consider myself a self-taught, consistent, and passionate individual about tec
 ![CTF](https://img.shields.io/badge/CTF-Player-red?style=for-the-badge&logo=hackthebox&logoColor=white)
 
 #### 🧰 Toolkit  
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
-
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ---
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r2d2m81&layout=compact&bg_color=0d1117&title_color=00ffcc&text_color=ffffff&hide_border=true&border_radius=12" />
-</p>
----
-
 #### Let’s Connect!
-
 - [💼 LinkedIn](https://www.linkedin.com/in/mimiart/)
 - 📧 artmirmij@gmail.com
-
 ---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=r2d2m81&show_icons=true&theme=nightowl" height="160"/>
   <img src="https://streak-stats.demolab.com?user=r2d2m81&theme=nightowl" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USER&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide_border=true" />
 </p>
