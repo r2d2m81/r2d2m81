@@ -64,7 +64,7 @@ I consider myself a self-taught, consistent, and passionate individual about tec
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=r2d2m81&show_icons=true&theme=nightowl&hide_border=true" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=r2d2m81&theme=nightowl&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r2d2m81&layout=compact&bg_color=011627&title_color=82aaff&text_color=c792ea&hide_border=true&border_radius=12" />
+  <img src="https://github-readme-stats.vercel.app/api?username=r2d2m81&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=r2d2m81&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r2d2m81&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide_border=true" />
 </p>
