@@ -56,14 +56,7 @@ I consider myself a self-taught, consistent, and passionate individual about tec
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
 
 ---
-
-- uses: lowlighter/metrics@latest
-  with:
-    plugin_languages: yes
-    plugin_languages_sections: recently-used
-    plugin_languages_recent_load: 400
-    plugin_languages_recent_days: 14
-      
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 ---
 ### Let’s Connect!
 
