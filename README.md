@@ -1,7 +1,7 @@
 <h1>Hello there 👋 I'm Arthur</h1>
 
 <p align="center">
-  💻 Frontend Software Engineer | UX/UI<br/>
+  💻 Frontend Developer | UX/UI<br/>
   🛡️ CyberSecurity Engineer
 </p>
 
